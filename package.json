@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@raydium-io/raydium-sdk-v2": "^0.2.29-alpha",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.12.2",
+    "bs58": "^6.0.0",
+    "dotenv": "^17.2.2",
+    "ws": "^8.18.3"
+  }
+}
